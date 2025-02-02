@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sabir Mohammedi Taieb
 - 👀 I’m interested in MCDA, GDSS and Leader Election Algorithms.
-- 🌱 I’m currently doing my PhD in Distributed Computing and Networks.
+<!-- - 🌱 I’m currently doing my PhD in Distributed Computing and Networks. -->
 - 📫 How to reach me: mohammeditaiebsabir@gmail.com
 
 <!---
